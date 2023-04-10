@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "Lentes de sol",
+		"description": "Ray ban ClubMaster",
+		"price": 34000,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_710134-MLA50997233933_082022-O.webp",
+		"code": 12345678,
+		"stock": 3
+	},
+	{
+		"id": 2,
+		"title": "Lentes de sol",
+		"description": "Aviator Caravan",
+		"price": 38000,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_972870-MLA48699908684_122021-O.webp",
+		"code": 123456789,
+		"stock": 2
+	}
+]
